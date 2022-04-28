@@ -1,6 +1,6 @@
 [
 {
-    "title": "1. Ljrano Express Essential",
+    "title": "A. Ljrano Express Essential",
     "type": 1,
     "description": "Number 1 choice. It contains all the sources you will need in one package. Use this package on its own.",
     "repositoryUrl": "https://github.com/ljransom/mystuff",
@@ -49,7 +49,7 @@
     "packageUrl": "https://syncler-providers.herokuapp.com/syncler/express-hybrid.json?exclude-orion=true"
   },
   {
-    "title": "2. Ljrano Kosmos (Bouncy)",
+    "title": "B. Ljrano Kosmos (Bouncy)",
     "type": 2,
     "description": "Kosmos provider for Syncler by WeeklyProblem. It contains all the sources you will need in one package. You can combine this package with a single Express package for covering all bases.",
     "repositoryUrl": "https://github.com/ljransom/mystuff",
