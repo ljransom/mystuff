@@ -1,10 +1,10 @@
 {
     "_manifest": {
-        "name": "Express Providers (Essential)",
-        "id": "express.syncler.ml",
+        "name": "Ljrano Express (Essential)",
+        "id": "Ljrano.Express",
         "version": 1,
         "classPath": "essential.ExpressProviderPackage",
-        "permaUrl": "http://go.syncler.ml/express"
+        "permaUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/express.json"
     },
 
     "extratorrent": {
