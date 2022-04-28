@@ -21,11 +21,11 @@
     "packageUrl": "https://raw.githubusercontent.com/itzAki07/scraper/main/scraper.json"
   },
   {
-    "title": "OpenScrapers - Express",
+    "title": "Ljrano OpenScrapers",
     "type": 1,
-    "description": "Express provider for Syncler by SynclerScrapers. It contains all the sources you will need in one package. Use this package on its own.",
-    "repositoryUrl": "https://github.com/SynclerScrapers/OpenScrapers",
-    "packageUrl": "https://raw.githubusercontent.com/SynclerScrapers/OpenScrapers/main/express/openscraper.json"
+    "description": "Express OpenScrapers provider.",
+    "repositoryUrl": "https://github.com/ljransom/mystuff",
+    "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/openscraper.json"
   },
   {
     "title": "Squizzle - Ultimate",
