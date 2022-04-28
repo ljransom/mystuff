@@ -9,16 +9,16 @@
   {
     "title": "Ljrano Kosmos/Bouncy (Preferred)",
     "type": 2,
-    "description": "Kosmos provider for Syncler by WeeklyProblem. It contains all the sources you will need in one package. You can combine this package with a single Express package for covering all bases.",
+    "description": "Kosmos provider for Syncler. You can combine this package with a single Express package for covering all bases.",
     "repositoryUrl": "https://github.com/ljransom/mystuff",
     "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/bouncy.min.js"
   },  
   {
-    "title": "C. Aki07 - Unified",
+    "title": "Ljranso Aki07",
     "type": 1,
-    "description": "Express provider for Syncler by Aki07. It contains all the sources you will need in one package. Use this package on its own.",
+    "description": "https://github.com/ljransom/mystuff",
     "repositoryUrl": "https://github.com/itzAki07/scraper",
-    "packageUrl": "https://raw.githubusercontent.com/itzAki07/scraper/main/scraper.json"
+    "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/Aki07.json"
   },
   {
     "title": "Ljrano OpenScrapers",
@@ -28,18 +28,11 @@
     "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/openscraper.json"
   },
   {
-    "title": "Squizzle - Ultimate",
+    "title": "Ljrano Squizzle",
     "type": 1,
     "description": "Express provider for Syncler by Squizzle. It contains all the sources you will need in one package. Use this package on its own.",
-    "repositoryUrl": "https://github.com/providers4syncler/providers",
-    "packageUrl": "https://raw.githubusercontent.com/providers4syncler/providers/main/squizzle"
-  },
-  {
-    "title": "Squizzle - Fast",
-    "type": 1,
-    "description": "Express provider for Syncler by Squizzle. It contains the minimal amount of sources for faster searches, but compromises on the amount of results.",
-    "repositoryUrl": "https://github.com/providers4syncler/providers",
-    "packageUrl": "https://raw.githubusercontent.com/providers4syncler/providers/main/fast"
+    "repositoryUrl": "https://github.com/ljransom/mystuff",
+    "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/squizzle.json"
   },
   {
     "title": "JakedUp - Hybrid (including Orion providers)",
