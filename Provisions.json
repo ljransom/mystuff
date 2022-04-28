@@ -1,11 +1,18 @@
 [
 {
-    "title": "A. Ljrano Express Essential",
+    "title": "Ljrano Express Essential (Preferred)",
     "type": 1,
     "description": "Number 1 choice. It contains all the sources you will need in one package. Use this package on its own.",
     "repositoryUrl": "https://github.com/ljransom/mystuff",
     "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/express.json"
   },
+  {
+    "title": "Ljrano Kosmos/Bouncy (Preferred)",
+    "type": 2,
+    "description": "Kosmos provider for Syncler by WeeklyProblem. It contains all the sources you will need in one package. You can combine this package with a single Express package for covering all bases.",
+    "repositoryUrl": "https://github.com/ljransom/mystuff",
+    "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/bouncy.min.js"
+  },  
   {
     "title": "C. Aki07 - Unified",
     "type": 1,
@@ -47,13 +54,6 @@
     "description": "Express provider for Syncler by JakedUp. It contains all the sources you will need in one package. Use this package on its own, or combine it with Orion's Wako package. Visit the repository URL for more information.",
     "repositoryUrl": "https://github.com/JakedUp/Syncler-Packages",
     "packageUrl": "https://syncler-providers.herokuapp.com/syncler/express-hybrid.json?exclude-orion=true"
-  },
-  {
-    "title": "B. Ljrano Kosmos (Bouncy)",
-    "type": 2,
-    "description": "Kosmos provider for Syncler by WeeklyProblem. It contains all the sources you will need in one package. You can combine this package with a single Express package for covering all bases.",
-    "repositoryUrl": "https://github.com/ljransom/mystuff",
-    "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/bouncy.min.js"
   },
   {
     "title": "JakedUp - JustWatch",
