@@ -1,10 +1,10 @@
 [
 {
-    "title": "Express Essential",
+    "title": "Ljrano Express Essential",
     "type": 1,
     "description": "Number 1 choice. It contains all the sources you will need in one package. Use this package on its own.",
-    "repositoryUrl": "http://go.syncler.ml/repository",
-    "packageUrl": "https://express.syncler.ml"
+    "repositoryUrl": "https://github.com/ljransom/mystuff",
+    "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/express.json"
   },
   {
     "title": "Aki07 - Unified",
