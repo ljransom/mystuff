@@ -14,25 +14,25 @@
     "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/bouncy.min.js"
   },  
   {
-    "title": "Ljranso Aki07",
+    "title": "Aki07 - Unified",
     "type": 1,
-    "description": "https://github.com/ljransom/mystuff",
+    "description": "Express provider for Syncler by Aki07. It contains all the sources you will need in one package. Use this package on its own.",
     "repositoryUrl": "https://github.com/itzAki07/scraper",
-    "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/Aki07.json"
+    "packageUrl": "https://raw.githubusercontent.com/itzAki07/scraper/main/scraper.json"
   },
   {
-    "title": "Ljrano OpenScrapers",
+    "title": "OpenScrapers - Express",
     "type": 1,
-    "description": "Express OpenScrapers provider.",
-    "repositoryUrl": "https://github.com/ljransom/mystuff",
-    "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/openscraper.json"
+    "description": "Express provider for Syncler by SynclerScrapers. It contains all the sources you will need in one package. Use this package on its own.",
+    "repositoryUrl": "https://github.com/SynclerScrapers/OpenScrapers",
+    "packageUrl": "https://raw.githubusercontent.com/SynclerScrapers/OpenScrapers/main/express/openscraper.json"
   },
   {
-    "title": "Ljrano Squizzle",
+    "title": "Squizzle - Ultimate",
     "type": 1,
     "description": "Express provider for Syncler by Squizzle. It contains all the sources you will need in one package. Use this package on its own.",
-    "repositoryUrl": "https://github.com/ljransom/mystuff",
-    "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/squizzle.json"
+    "repositoryUrl": "https://github.com/providers4syncler/providers",
+    "packageUrl": "https://raw.githubusercontent.com/providers4syncler/providers/main/squizzle"
   },
   {
     "title": "JakedUp - Hybrid (including Orion providers)",
