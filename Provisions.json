@@ -7,11 +7,11 @@
     "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/express.json"
   },
   {
-    "title": "Ljrano Kosmos/Bouncy (Preferred)",
+    "title": "Kosmos Bouncy V2 (Preferred)",
     "type": 2,
     "description": "Kosmos provider for Syncler. You can combine this package with a single Express package for covering all bases.",
     "repositoryUrl": "https://github.com/ljransom/mystuff",
-    "packageUrl": "https://raw.githubusercontent.com/ljransom/mystuff/main/bouncy.min.js"
+    "packageUrl": "https://package.bouncy.cc"
   },  
   {
     "title": "Aki07 - Unified",
