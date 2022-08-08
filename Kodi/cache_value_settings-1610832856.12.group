@@ -1,0 +1,108 @@
+{
+    "paths": [
+        {
+            "target": "shortcut",
+            "color": "white",
+            "label": "Auto Detect",
+            "content": "files",
+            "window": "programs",
+            "version": "3.1.2",
+            "file": {
+                "plot": "This preset will enable 'zero cache' on your device. [B]DO NOT[/B] use this preset on devices with low amounts of free storage, or that have flash storage. [B]It is only safe[/B] to use on devices with hard drives.",
+                "votes": "0",
+                "art": {
+                    "fanart": "",
+                    "thumb": "special://home/addons/!custom.icons/Auto_Landscape.png",
+                    "icon": "special://home/addons/!custom.icons/Auto_Icon.png"
+                },
+                "title": "",
+                "filetype": "file",
+                "file": "plugin://plugin.program.openwizard/?mode=advanced_settings&amp;action=write_advanced&amp;url=https://archive.org/download/advancedsettings_20210606/advancedsettings_autodetect.xml&amp;name=the+preset+for+Auto+Detect+Cache+Size",
+                "genre": "Allow Kodi To Auto Detect Cache Size Based On Your Memory",
+                "size": "0 B"
+            },
+            "id": "auto-1610833726.51"
+        },
+        {
+            "target": "shortcut",
+            "color": "white",
+            "label": "Low RAM (2GB or Less) - 150MB",
+            "content": "files",
+            "window": "programs",
+            "version": "3.1.2",
+            "file": {
+                "plot": "This preset can be used on devices with less than 2GB of RAM, like Amazon Fire Sticks.",
+                "votes": "0",
+                "art": {
+                    "fanart": "",
+                    "thumb": "special://home/addons/!custom.icons/GadgeLow_Landscape.png",
+                    "icon": "special://home/addons/!custom.icons/GadgeLow_Icon.png"
+                },
+                "title": "",
+                "filetype": "file",
+                "file": "plugin://plugin.program.openwizard/?mode=advanced_settings&amp;action=write_advanced&amp;url=https://archive.org/download/advancedsettings_20210606/advancedsettings_k17u_low_fs.xml&amp;name=the+preset+for+Low+RAM+Devices",
+                "genre": "Recommended Devices: Fire TV Edition, Firestick, Fire Tablets, MiBox, Google TV, Tivo Stream 4K",
+                "size": "0 B"
+            },
+            "id": "low-1610833740.26"
+        },
+        {
+            "target": "shortcut",
+            "color": "white",
+            "label": "High RAM (2GB or More) - 200MB",
+            "content": "files",
+            "window": "programs",
+            "version": "3.1.2",
+            "file": {
+                "plot": "This preset can be used on devices with more than 2GB of RAM, like the Nvidia Shield.",
+                "votes": "0",
+                "art": {
+                    "fanart": "",
+                    "thumb": "special://home/addons/!custom.icons/GadgeHigh_Landscape.png",
+                    "icon": "special://home/addons/!custom.icons/GadgeHigh_Icon.png"
+                },
+                "title": "",
+                "filetype": "file",
+                "file": "plugin://plugin.program.openwizard/?mode=advanced_settings&amp;action=write_advanced&amp;url=https://archive.org/download/advancedsettings_20210606/advancedsettings_k17u_medium_ftvcube.xml&amp;name=the+preset+for+High+RAM+Devices",
+                "genre": "Recommended Devices: Nvidia Shield, Fire TV Cube, Desktop PC, Laptop",
+                "size": "0 B"
+            },
+            "id": "high-1610833754.21"
+        },
+        {
+            "target": "shortcut",
+            "color": "white",
+            "label": "Custom Value",
+            "content": "files",
+            "window": "programs",
+            "version": "3.1.2",
+            "file": {
+                "plot": "[COLOR limegreen][B]Open[/B][/COLOR]Wizard",
+                "votes": "0",
+                "art": {
+                    "fanart": "",
+                    "thumb": "special://home/addons/!custom.icons/Add_Landscape.png",
+                    "icon": "special://home/addons/!custom.icons/Add_Icon.png"
+                },
+                "title": "",
+                "filetype": "directory",
+                "file": "plugin://plugin.program.openwizard/?action=show_section&mode=advanced_settings&tags=cache%7cnetwork",
+                "genre": "Advanced Setting: Specify Your Own Cache Size [Use At Your Own Risk!]"
+            },
+            "id": "custom_value-1610833027.1"
+        }
+    ],
+    "art": {
+        "fanart": "special://home/addons/plugin.program.autowidget/resources/media/fanart/folder-shortcut.png",
+        "poster": "special://home/addons/!custom.icons/Cache.jpg",
+        "banner": "special://home/addons/plugin.program.autowidget/resources/media/banner/folder-shortcut.png",
+        "thumb": "special://home/addons/!custom.icons/Cache.jpg",
+        "icon": "special://home/addons/plugin.program.autowidget/resources/media/icon/folder-shortcut.png"
+    },
+    "label": "Cache Value",
+    "version": "3.1.2",
+    "type": "shortcut",
+    "id": "cache_value_settings-1610832856.12",
+    "sort_order": "3",
+    "content": ""
+}
