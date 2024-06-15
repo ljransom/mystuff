@@ -380,9 +380,9 @@
         "name": "TorrentGalaxy",
         "enabled": true,
         "languages": ["en"],
-        "base_url": "https://torrentgalaxy.to",
+        "base_url": "https://torrentgalaxy.mx",
         "fallback_urls": [
-            "https://torrentgalaxy.org",
+            "https://torrentgalaxy.to",
             "https://torrentgalaxy.pw"
         ],
         "response_type": "text",
