@@ -1,0 +1,34 @@
+{
+  "aiostreams": {
+    "name": "AioStreams",
+    "base_url": "https://aiostreams.elfhosted.com",
+    "response_type": "json",
+    "movie": {
+      "query": "/stremio/{managedAccounts.aio.username}/{managedAccounts.aio.password}/stream/movie/{query}.json",
+      "keywords": "{imdbId}"
+    },
+    "episode": {
+      "query": "/stremio/{managedAccounts.aio.username}/{managedAccounts.aio.password}/stream/series/{query}:{season}:{episode}.json",
+      "keywords": "{showImdbId}"
+    },
+    "anime": {
+      "query": "/stremio/{managedAccounts.aio.username}/{managedAccounts.aio.password}/stream/anime/{query}:{season}:{episode}.json",
+      "keywords": "{showImdbId}"
+    },
+    "json_format": {
+      "results": "streams",
+      "url": "url",
+      "title": "description",
+      "size": "behaviorHints.videoSize",
+      "host": "url",
+      "host:ops": [
+        {
+          "name": "regex",
+          "params": ["http(?:s|)://(.+)\/"]
+        }
+      ],
+      "playbackFileName": "behaviorHints.filename",
+      "playbackFileSize": "behaviorHints.videoSize"
+    }
+  }
+}
