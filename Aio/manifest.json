@@ -1,8 +1,8 @@
 {
-  "name": "xxx",
-  "id": "xxx",
+  "name": "AIO",
+  "id": "100",
   "version": 1,
-  "url": "https://xxxx/express.json",
+  "url": "https://raw.githubusercontent.com/ljransom/mystuff/refs/heads/main/Aio/express.json",
   "type": "express",
   "accounts": [
     {
