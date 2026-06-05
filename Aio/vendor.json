@@ -6,13 +6,13 @@
   "support": "https://github.com",
   "packages": [
     {
-      "manifest": "https://raw.githubusercontent.com/ljransom/mystuff/refs/heads/main/Aio/manifest.json",
+      "manifest": "https://raw.githubusercontent.com/ljransom/mystuff/main/Aio/manifest.json",
       "description": "AIOStreams package"
     }
   ],
   "defaults": {
     "packages": [
-      "https://raw.githubusercontent.com/ljransom/mystuff/refs/heads/main/Aio/manifest.json"
+      "https://raw.githubusercontent.com/ljransom/mystuff/main/Aio/manifest.json"
     ],
     "cacheServer": "cache.bouncy.cc"
   },
