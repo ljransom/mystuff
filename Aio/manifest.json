@@ -1,7 +1,7 @@
 {
   "name": "AIO",
   "id": "com.aiostreams.direct",
-  "version": 1780506000,
+  "version": 1000,
   "url": "https://raw.githubusercontent.com/ljransom/mystuff/main/Aio/express.json",
   "type": "express",
   "accounts": [
